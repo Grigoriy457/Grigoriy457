@@ -25,12 +25,14 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white">
-  <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <a href="https://freelance.habr.com/freelancers/grigoriy-vlasov" target="_blank"><img src="https://img.shields.io/badge/Habr%20Freelance-65A3BE?style=for-the-badge&logo=Habr&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://freelance.habr.com/freelancers/grigoriy-vlasov" target="_blank">
+    <img src="https://img.shields.io/badge/Habr%20Freelance-65A3BE?style=for-the-badge&logo=Habr&logoColor=white">
+  </a>
 </div>
 </p>
 
