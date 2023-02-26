@@ -4,22 +4,22 @@
 
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   </div>
 </p>
 
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&logoColor=white">
-    <img src="https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5.svg?style=for-the-badge&logo=Home-Assistant-Community-Store&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+    <a href="#"><img src="https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5.svg?style=for-the-badge&logo=Home-Assistant-Community-Store&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   </div>
 </p>
 
@@ -40,8 +40,8 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=grigoriy457&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=grigoriy457&theme=radical&hide_border=true">
+  <img width="49.5%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Grigoriy457&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+  <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Grigoriy457&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 <br>
 
