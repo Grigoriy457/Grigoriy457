@@ -40,11 +40,11 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Grigoriy457&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&api_domain=Wakapi&range=all_time">
+  <img width="49.5%" src="https://github-readme-stats-grigoriy457.vercel.app/api?username=Grigoriy457&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&api_domain=Wakapi&range=all_time">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Grigoriy457&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 <br>
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grigoriy457&theme=radical&bg_color=141320&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img width="49.5%" src="https://github-readme-stats-grigoriy457.vercel.app/api/top-langs/?username=Grigoriy457&theme=radical&bg_color=141320&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
